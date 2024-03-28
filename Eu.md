@@ -3,4 +3,4 @@
 - 🏫 Sou técnico em eletrótenica (sem experiência na área).
 
 - 👀 Estou reestudando Front-end.
-- 👤 Busco estágio para colocar conhecimentos a prova e buscar novos conhecimetos.
+- 👤 Busco estágio para colocar conhecimentos à prova e buscar novos conhecimetos.
