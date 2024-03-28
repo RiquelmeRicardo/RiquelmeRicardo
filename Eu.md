@@ -1,4 +1,6 @@
 - 👋 Olá, meu nome é Riquelme. Mas podem me chamar pelo meu nick: Pingu.
-- 🌱 Estou cursando faculdade de ciências da computação, mesmo sendo uma área que gosto, ainda não vejo afinidade.
-- 👀 Estou interessado na área de web, criação de páginas.
+- 🌱 Estou cursando ciências da computação.
 - 🏫 Sou técnico em eletrótenica (sem experiência na área).
+
+- 👀 Estou reestudando Front-end.
+- 👤 Busco estágio para colocar conhecimentos a prova e buscar novos conhecimetos.
